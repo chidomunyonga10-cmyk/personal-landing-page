@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chidochashe Munyonga | Personal Website</title>
+
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+background-color: #f4f6f8;
+color: #333;
+}
+
+header {
+background-color: #0a66c2;
+color: white;
+padding: 40px 20px;
+text-align: center;
+}
+
+section {
+max-width: 800px;
+margin: 30px auto;
+padding: 0 20px;
+}
+
+h1, h2 {
+margin-bottom: 10px;
+}
+
+.card {
+background: white;
+padding: 20px;
+margin-bottom: 20px;
+border-radius: 8px;
+box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+ul {
+padding-left: 20px;
+}
+
+footer {
+text-align: center;
+padding: 20px;
+font-size: 14px;
+color: #777;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Chidochashe Munyonga</h1>
+<p>Business Information Systems Student | D1 Field Hockey Athlete | Zimbabwe National Player</p>
+</header>
+
+<section>
+
+<div class="card">
+<h2>About Me</h2>
+<p>
+I am a freshman at Ball State University studying Business Information Systems.
+I am an international student from Harare, Zimbabwe, and a Division 1 field hockey athlete.
+I have represented Zimbabwe at the U16, U18, and U21 levels, demonstrating dedication, discipline,
+and teamwork both on and off the field.
+</p>
+<p>
+[Add a personal statement about your career goals, interests in technology/business, or what drives you.]
+</p>
+</div>
+
+<div class="card">
+<h2>Education</h2>
+<ul>
+<li>
+<strong>Ball State University</strong><br>
+Bachelor’s Degree in Business Information Systems<br>
+[Expected Graduation Year]
+</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Athletic Experience</h2>
+<ul>
+<li>Division 1 Field Hockey Athlete – Ball State University</li>
+<li>Zimbabwe National Team Player (U16, U18, U21)</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Skills & Interests</h2>
+<ul>
+<li>[Technical skills – e.g., Excel, Python, Data Analysis]</li>
+<li>[Soft skills – Leadership, Teamwork, Communication]</li>
+<li>[Interests – Technology, Business Strategy, Sports]</li>
+</ul>
+</div>
+
+<div class="card">
+<h2>Experience</h2>
+<p>
+[Add internships, part-time jobs, volunteering, or leadership roles here.]
+</p>
+</div>
+
+<div class="card">
+<h2>Contact</h2>
+<p>Email: [your email]</p>
+<p>LinkedIn: <a href="https://www.linkedin.com/in/chidochashe-munyonga-774349201/" target="_blank">View Profile</a></p>
+</div>
+
+</section>
+
+<footer>
+<p>© 2026 Chidochashe Munyonga</p>
+</footer>
+
+</body>
+</html>
